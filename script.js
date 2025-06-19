@@ -10,3 +10,5 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     alert("Signed in successfully (demo only).");
   }
 });
+
+//this is to practice pushing to github
